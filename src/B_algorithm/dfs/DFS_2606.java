@@ -1,4 +1,4 @@
-package B_algorithm.DFS;
+package B_algorithm.dfs;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
